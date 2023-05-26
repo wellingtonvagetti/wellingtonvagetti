@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Wellington Vagetti 👋 
 Engenheiro de Cloud e Infraestrutura me especializando com Arquitetura de Soluções Cloud
 
-- 👨🏾‍💻**Engenheiro de Dados** na [Hvar Consulting](https://hvarconsulting.com.br/)
+- 👨🏾‍💻 **Engenheiro de Dados** na [Hvar Consulting](https://hvarconsulting.com.br/)
 - 🏋🏾 Apaixonado por atividades físicas entre elas: **crossfit, rapel e recentemente a calistenia**
 - 🎸 Guitarrista por hobbie e amante do Rock'N Roll
 - 🖥️ Atualmente mais focado em: 
