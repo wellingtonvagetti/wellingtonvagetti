@@ -31,3 +31,8 @@ Possuo certificações, entre destaque, são:
  <div> 
   <a href="https://www.linkedin.com/in/wellington-vagetti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
+ 
+ ### Visualizações e seguidores:
+  <img src="https://komarev.com/ghpvc/?username=wellingtonvagetti" alt="https://github.com/wellingtonvagetti"></a>
+  <a href="https://github.com/wellingtonvagetti?tab=followers" target="_blank">
+     <img src="https://img.shields.io/github/followers/wellingtonvagetti?label=Followers&style=social" alt="Github Badge"></a>
