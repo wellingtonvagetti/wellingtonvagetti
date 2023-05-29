@@ -35,4 +35,4 @@ Possuo certificações, entre destaque, são:
  ### Visualizações e seguidores:
   <img src="https://komarev.com/ghpvc/?username=wellingtonvagetti" alt="https://github.com/wellingtonvagetti"></a>
   <a href="https://github.com/wellingtonvagetti?tab=followers" target="_blank">
-     <img src="https://img.shields.io/github/followers/wellingtonvagetti?label=Followers&style=social" alt="Github Badge"></a>
+     <img src="https://img.shields.io/github/followers/wellingtonvagetti?style=social" alt="Github Badge"></a>
