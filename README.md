@@ -17,7 +17,7 @@ Engenheiro de Cloud e Infraestrutura me especializando em Arquitetura de Solu√ß√
 
 ##
 <p align="center">
-<a href="https://github.com/taynarasene">
+<a href="https://github.com/wellingtonvagetti">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wellingtonvagetti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wellingtonvagetti&layout=compact&langs_count=7&theme=dark"/>
 </a>
