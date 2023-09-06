@@ -1,5 +1,5 @@
 ### Olá! Meu nome é Wellington Vagetti 👋 
-Engenheiro de Cloud e Infraestrutura me especializando em Arquitetura de Soluções Cloud
+Arquiteto de Cloud e Infraestrutura me especializando em Soluções Cloud
 
 - 👨🏾‍💻 **Arquiteto de Cloud** na [Cloud2Go Consulting](https://cloud2go.com.br/)
 - 🏋🏾 Apaixonado por atividades físicas entre elas: **crossfit, rapel e recentemente a calistenia**
