@@ -2,8 +2,8 @@
 
 # Wellington Vagetti ☁️
 
-**Azure & Cloud Architecture · Infrastructure · Governance · FinOps**  
-Automation · Data & AI
+**Azure Cloud Architecture · Infrastructure · Governance · Azure Policy**  
+FinOps · Automation · Data & AI
 
 <a href="https://www.linkedin.com/in/wellington-vagetti/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Conecte-se comigo no LinkedIn"></a>
 <a href="https://github.com/wellingtonvagetti?tab=repositories"><img src="https://img.shields.io/badge/Projetos_no_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Meus repositórios no GitHub"></a>
@@ -16,11 +16,19 @@ Automation · Data & AI
 
 ### 👋 Sobre mim
 
-Sou profissional de **Cloud e Infraestrutura**, com uma trajetória que conecta ambientes Windows Server e Linux à arquitetura de soluções em **Microsoft Azure**. Meu trabalho combina sustentação de ambientes corporativos, padronização, compliance e eficiência no uso da nuvem.
+Minha trajetória começa na **infraestrutura Windows Server e Linux** e evolui para ambientes corporativos em **Microsoft Azure**. Hoje, conecto operação, governança e automação para estruturar padrões, dar visibilidade aos recursos e apoiar decisões técnicas e financeiras.
 
-Atualmente, na **Solo Network**, atuo com infraestrutura e governança Azure em ambiente corporativo junto à **Evertec/Sinqia**. Tenho foco em Azure Policy, organização de recursos, governança de tags, FinOps e automações com PowerShell e Azure CLI.
+Meu principal foco é **governança Azure em escala**: transformar requisitos em políticas, organizar ambientes e investigar inconformidades com consultas e automações. Amplio essa base com arquitetura de Cloud, análise de dados e IA aplicada ao trabalho técnico.
 
-Dados e IA ampliam essa atuação: utilizo análises, dashboards e IA generativa para apoiar scripts, troubleshooting e decisões de arquitetura, com revisão e validação técnica.
+### 💼 Experiência atual
+
+**Solo Network · Cloud Infrastructure & Azure Governance**
+
+- **Governança e compliance:** criação e revisão de **Policy Definitions e Policy Initiatives**, validação de regras e análise de conformidade para padronizar ambientes Azure.
+- **Organização de ambientes:** atuação com **Management Groups**, grupos de recursos e governança de tags para classificação, rastreabilidade e consistência das configurações.
+- **Automação e diagnóstico:** consultas com **Azure Resource Graph**, scripts em **PowerShell** e **Azure CLI** para inventário, validação, análise e padronização de recursos.
+- **FinOps:** análise da classificação de recursos, identificação de desperdícios e apoio à otimização de custos, conectando governança técnica à visibilidade financeira.
+- **Dados e IA:** análises e dashboards para apoiar a leitura do ambiente; uso de IA generativa no desenvolvimento de scripts, troubleshooting e avaliação de alternativas técnicas, com revisão e validação.
 
 ### 🎓 Formação & Desenvolvimento Profissional
 
@@ -34,7 +42,7 @@ Aprofundo minha formação em arquitetura Azure, conectando o estudo formal aos 
 | Pilar | Aplicação na minha atuação |
 | --- | --- |
 | **☁️ Cloud & Infrastructure** | Infraestrutura corporativa Azure, máquinas virtuais, networking, Windows Server e Linux. Organização de subscriptions, Resource Groups e Management Groups para apoiar arquitetura e operação. |
-| **🛡️ Cloud Governance & FinOps** | Azure Policy e Initiatives, governança de tags, compliance e padronização em escala. Classificação de recursos, identificação de desperdícios e análise de custos para apoiar visibilidade financeira e showback/chargeback. |
+| **🛡️ Cloud Governance & FinOps** | Policy Definitions e Policy Initiatives, governança de tags, compliance e padronização em escala. Classificação de recursos, identificação de desperdícios e análise de custos para apoiar visibilidade financeira e showback/chargeback. |
 | **⚙️ Automation & IaC** | Scripts e consultas com PowerShell, Azure CLI, Azure Resource Graph e APIs. Git, GitHub, Terraform e GitHub Actions como competências complementares para versionamento, automação e infraestrutura como código. |
 | **📊 Data & AI** | SQL, MySQL, Power BI e dashboards para análise e automação orientada por dados. ChatGPT e Microsoft Copilot no apoio ao desenvolvimento de scripts, análise, troubleshooting e arquitetura. |
 
@@ -55,7 +63,7 @@ Virtual Machines · Resource Groups · Subscriptions · Management Groups · fun
 ![Azure Resource Graph](https://img.shields.io/badge/Azure_Resource_Graph-0078D4?style=flat)
 ![FinOps](https://img.shields.io/badge/FinOps-2563EB?style=flat)
 
-Policy Initiatives · Tags · Compliance · Padronização · Análise e otimização de custos
+Policy Definitions · Policy Initiatives · Management Groups · Tags · Compliance · Padronização · Análise e otimização de custos
 
 **⚙️ Automation & IaC**
 
@@ -75,6 +83,15 @@ GitHub · APIs · Versionamento · Automações com apoio de IA
 ![IA generativa](https://img.shields.io/badge/IA_Generativa-374151?style=flat)
 
 Análise de dados · Dashboards · ChatGPT · Microsoft Copilot
+
+### 🚀 Projetos em destaque
+
+Exemplos públicos e laboratórios que conectam minha base em infraestrutura à automação e governança Azure.
+
+| Projeto | Conteúdo | Tecnologias principais |
+| --- | --- | --- |
+| [Azure Policy · CrowdStrike Falcon](https://github.com/wellingtonvagetti/cs-azure-falcon-policy-cse) | Modelos de implantação do agente em VMs Windows e Linux com Azure Policy e extensões de script, incluindo definições, atribuições e identidade gerenciada. | Azure Policy · Bicep · ARM |
+| [Infraestrutura Azure com Terraform](https://github.com/wellingtonvagetti/azure-terraform) | Laboratório de provisionamento de VMs Windows e Linux, redes virtuais, sub-redes, interfaces e grupos de segurança. | Terraform · Azure · HCL |
 
 ### 🏅 Certificações Microsoft
 
