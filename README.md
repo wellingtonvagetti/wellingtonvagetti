@@ -81,15 +81,15 @@ Análise de dados · Dashboards · ChatGPT · Microsoft Copilot
 Credenciais Azure e histórico de certificações em infraestrutura Microsoft. Clique nos badges para consultar os registros e seus detalhes no Credly.
 
 <p>
-<a href="https://www.credly.com/badges/b86b5ada-71d9-4725-80dd-a11d656a3dc9/public_url"><img width="88" height="88" alt="Certificação Microsoft Azure" src="https://images.credly.com/size/340x340/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png"></a>
+<a href="https://www.credly.com/badges/b86b5ada-71d9-4725-80dd-a11d656a3dc9/public_url"><img width="88" height="88" alt="Microsoft Certified Trainer 2023–2024 (histórico)" src="https://images.credly.com/size/340x340/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png"></a>
 <a href="https://www.credly.com/badges/2ad4cf62-1474-49d5-acfc-a40699b5909d/public_url"><img width="88" height="88" alt="Azure Solutions Architect Expert" src="https://images.credly.com/size/340x340/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png"></a>
 <a href="https://www.credly.com/badges/d467a836-bbcc-44eb-be0e-b7c50b40f892/public_url"><img width="88" height="88" alt="Azure Administrator Associate" src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png"></a>
-<a href="https://www.credly.com/badges/0e8a3a37-c9e7-4fa1-952b-127a037e2308/public_url"><img width="88" height="88" alt="Certificação Microsoft Azure" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"></a>
+<a href="https://www.credly.com/badges/0e8a3a37-c9e7-4fa1-952b-127a037e2308/public_url"><img width="88" height="88" alt="Azure Fundamentals" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"></a>
 <a href="https://www.credly.com/badges/982b3773-8182-4e64-98d7-bdaa13abd691/public_url"><img width="88" height="88" alt="MCSE: Core Infrastructure (histórico)" src="https://images.credly.com/size/340x340/images/6c49baad-9705-4b47-90a3-f8e5b5d01d6b/MCSE-Core_Infrastructure-600x600.png"></a>
 <a href="https://www.credly.com/badges/261a0ac8-a6a0-49b5-9eb7-31f626d0ad28/public_url"><img width="88" height="88" alt="MCSA: Windows Server 2016 (histórico)" src="https://images.credly.com/size/340x340/images/ebc901fb-d403-4598-bfb7-da80289afdbd/MCSA-Windows_Server_2016-600x600.png"></a>
 </p>
 
-As credenciais históricas de Windows Server fazem parte da minha trajetória em infraestrutura. A emissão e a situação de cada credencial podem ser consultadas no respectivo registro.
+O badge MCT 2023–2024 e as credenciais históricas de Windows Server fazem parte da minha trajetória em infraestrutura. A emissão e a situação de cada credencial podem ser consultadas no respectivo registro.
 
 ### 📈 Atividade no GitHub
 
