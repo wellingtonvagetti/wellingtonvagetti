@@ -1,3 +1,5 @@
+<img src="assets/capa-cloud-azure.png" alt="Cloud e Azure — arquitetura, governança, segurança, FinOps e certificações Microsoft" width="100%">
+
 <div align="center">
 
 # Wellington Vagetti ☁️
