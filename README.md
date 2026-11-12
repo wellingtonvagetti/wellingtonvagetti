@@ -97,11 +97,12 @@ Exemplos públicos e laboratórios que conectam minha base em infraestrutura à 
 
 ### 🏅 Certificações Microsoft
 
-Microsoft Certified Trainer (MCT) 2026, credenciais Azure e histórico de certificações em infraestrutura Microsoft. Clique nos badges para consultar os registros e seus detalhes no Credly.
+Microsoft Certified Trainer (MCT) 2026, credenciais Azure e histórico de certificações em infraestrutura Microsoft. Clique nos badges para consultar os registros e seus detalhes no Credly ou no Microsoft Learn.
 
 <p>
 <a href="https://www.credly.com/badges/69f03611-4fd3-46de-b6b3-97d9f6896920/public_url"><img width="88" height="88" alt="Microsoft Certified Trainer (MCT) 2026" src="assets/mct-2026.png"></a>
 <a href="https://www.credly.com/badges/2ad4cf62-1474-49d5-acfc-a40699b5909d/public_url"><img width="88" height="88" alt="Azure Solutions Architect Expert" src="https://images.credly.com/size/340x340/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png"></a>
+<a href="https://learn.microsoft.com/api/credentials/share/pt-br/59057962/3CC7C7C906320F60?sharingId=1DAE4F061BB89E03"><img width="88" height="88" alt="Microsoft Certified: Azure Security Engineer Associate (AZ-500)" src="assets/az-500.png"></a>
 <a href="https://www.credly.com/badges/d467a836-bbcc-44eb-be0e-b7c50b40f892/public_url"><img width="88" height="88" alt="Azure Administrator Associate" src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png"></a>
 <a href="https://www.credly.com/badges/0e8a3a37-c9e7-4fa1-952b-127a037e2308/public_url"><img width="88" height="88" alt="Azure Fundamentals" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"></a>
 <a href="https://www.credly.com/badges/982b3773-8182-4e64-98d7-bdaa13abd691/public_url"><img width="88" height="88" alt="MCSE: Core Infrastructure (histórico)" src="https://images.credly.com/size/340x340/images/6c49baad-9705-4b47-90a3-f8e5b5d01d6b/MCSE-Core_Infrastructure-600x600.png"></a>
