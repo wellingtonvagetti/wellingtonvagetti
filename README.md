@@ -100,7 +100,7 @@ Exemplos públicos e laboratórios que conectam minha base em infraestrutura à 
 Microsoft Certified Trainer (MCT) 2026, credenciais Azure e histórico de certificações em infraestrutura Microsoft. Clique nos badges para consultar os registros e seus detalhes no Credly.
 
 <p>
-<a href="https://www.credly.com/earner/earned/badge/69f03611-4fd3-46de-b6b3-97d9f6896920"><img width="88" height="88" alt="Microsoft Certified Trainer (MCT) 2026" src="assets/mct-2026.png"></a>
+<a href="https://www.credly.com/badges/69f03611-4fd3-46de-b6b3-97d9f6896920/public_url"><img width="88" height="88" alt="Microsoft Certified Trainer (MCT) 2026" src="assets/mct-2026.png"></a>
 <a href="https://www.credly.com/badges/2ad4cf62-1474-49d5-acfc-a40699b5909d/public_url"><img width="88" height="88" alt="Azure Solutions Architect Expert" src="https://images.credly.com/size/340x340/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png"></a>
 <a href="https://www.credly.com/badges/d467a836-bbcc-44eb-be0e-b7c50b40f892/public_url"><img width="88" height="88" alt="Azure Administrator Associate" src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png"></a>
 <a href="https://www.credly.com/badges/0e8a3a37-c9e7-4fa1-952b-127a037e2308/public_url"><img width="88" height="88" alt="Azure Fundamentals" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"></a>
